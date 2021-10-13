@@ -2,7 +2,7 @@ Nama  : Ellyana Rizkyawati
 
 NIM   : E41202508
 
-Prodi : Teknik Informatika-Kampus Bondowoso
+Prodi : Teknik Informatika
 
 Gol   : B
 

@@ -1,6 +1,6 @@
-Nama  : Sitti Mahmudah
+Nama  : Ellyana Rizkyawati
 
-NIM   : E41201553
+NIM   : E41202508
 
 Prodi : Teknik Informatika-Kampus Bondowoso
 
